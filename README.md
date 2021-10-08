@@ -5,9 +5,9 @@
 - ❤️ I am also writting blogs on [hashnode](https://maheshrao98.hashnode.dev).
 - 🗺️ I am also currently exploring on building 3D websites and web games.
 
-### My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
