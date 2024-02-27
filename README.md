@@ -1,9 +1,6 @@
 ### Hi there 👋
 - 👀 I am Mahesh Rao
-- 👔 I am a Web Developer at @Axrail
-- 🏗️ I am currently building [reactaccelerometervalue](https://www.npmjs.com/package/reactaccelerometervalue), a npm module on reading acceleromter values on mobile devices
-- ❤️ I am also writting blogs on [hashnode](https://maheshrao98.hashnode.dev).
-- 🗺️ I am currently preparing to attempt for AWS Certified Solutions Architect Associate 2022.
+- 👔 I am a Frontend Web Developer at @sourceflow_uk
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
